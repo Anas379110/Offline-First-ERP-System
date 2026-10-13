@@ -1,21 +1,21 @@
-# ERP يعمل بدون إنترنت بالكامل
-**Offline-First ERP (Fully Disconnected Operation)** · التصنيف: منصة تجارية
+# Offline-First ERP (Fully Disconnected Operation)
+**Offline-First ERP (Fully Disconnected Operation)** · Category: Commercial Platform
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
+> Project overview document (specifications and technologies) — does not include the source code.
 > Project overview document — source code is not included.
 
-## نبذة عن المشروع
-برنامج ERP لإدارة العمل المنفصل عن الإنترنت بالكامل، مناسب للأماكن التي لا تعتمد على اتصال ثابت ويحتاج فرقها حلولاً محلية سريعة وخفيفة.
+## Project Overview
+ERP software for fully offline work management, suitable for locations that do not rely on a stable connection and whose teams need fast, lightweight local solutions.
 
-## أبرز النقاط
-- يعمل محلياً بالكامل مع قاعدة بيانات محلية
-- عميل سطح مكتب سريع وخفيف
-- نسخ احتياطي واستعادة مجدولة محلياً
+## Highlights
+- Operates fully locally with a local database
+- Fast, lightweight desktop client
+- Scheduled local backup and restore
 
-## الدور
-مطوّر منصات أعمال: تحليل المتطلبات وبناء النظام ولوحة الإدارة وقاعدة البيانات والتقارير.
+## Role
+Business Platforms Developer: requirements analysis and building the system, admin panel, database, and reports.
 
-## التقنيات المستخدمة
+## Technologies Used
 Electron, React, TypeScript, SQLite, Node.js, Local Backup
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

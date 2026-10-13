@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — ERP يعمل بدون إنترنت بالكامل
+# 🛠️ Technologies Used — Offline-First ERP (Fully Disconnected Operation)
 
 - Electron
 - React
